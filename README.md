@@ -1,3 +1,5 @@
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sahil%20Mondal&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+I'm+Sahil%F0%9F%91%8B;1st+Year+CS+%40+UPES+Dehradun%F0%9F%8E%93;Future+AI%2FML+Engineer%F0%9F%A4%96;Learning+Something+New+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 # 💫 About Me:
@@ -35,5 +37,7 @@
   <img alt="github-snake" 
    src="https://raw.githubusercontent.com/sahil-mondal07/sahil-mondal07/output/github-snake.svg"/>
 </picture>
+
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
