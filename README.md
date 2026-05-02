@@ -5,7 +5,7 @@
 # 💫 About Me:
  I'm currently working on my fundamentals before my AI/ML specialization begins!<br> I'm looking to collaborate on Beginner ML projects, Python scripts, or anything AI/ML related<br> I'm looking for help with Math for ML — Linear Algebra, Probability & Statistics<br> I'm currently learning DSA with C, Python & exploring AI/ML to get a head start on my specialization<br> Ask me about My journey, life at UPES Dehradun, or my upcoming AI/ML specialization!<br>Currently a 1st year CS student at UPES Dehradun 🎓 — soon stepping into 2nd year with AI/ML specialization 🤖🔥
 
-![Real Madrid](https://img.shields.io/badge/Real%20Madrid%20CF-FFFFFF?style=for-the-badge&logo=real-madrid&logoColor=black)
+![Real Madrid](https://img.shields.io/badge/Real%20Madrid-CF-white?style=for-the-badge&labelColor=purple)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ssahill._07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mondalsahil591@gmail.com) 
