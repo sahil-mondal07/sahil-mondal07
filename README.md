@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+I'm+Sahil%F0%9F%91%8B;1st+Year+CS+%40+UPES+Dehradun%F0%9F%8E%93;Future+AI%2FML+Engineer%F0%9F%A4%96;Learning+Something+New+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 # 💫 About Me:
  I'm currently working on my fundamentals before my AI/ML specialization begins!<br> I'm looking to collaborate on Beginner ML projects, Python scripts, or anything AI/ML related<br> I'm looking for help with Math for ML — Linear Algebra, Probability & Statistics<br> I'm currently learning DSA with C, Python & exploring AI/ML to get a head start on my specialization<br> Ask me about My journey, life at UPES Dehradun, or my upcoming AI/ML specialization!<br>Currently a 1st year CS student at UPES Dehradun 🎓 — soon stepping into 2nd year with AI/ML specialization 🤖🔥
 
